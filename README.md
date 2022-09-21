@@ -4,13 +4,7 @@
 ### [Support Server](https://discord.gg/7wmb5x7qp4)
 
 
-welcome to arbotix codez
-to day video show how to make suggestion bot 
-lets start video
-add token
-add mongodb in cconfig.json
+# welcome to arbotix codez
 
-follow setup
-add token
-bot ready
-lets test
+# add token
+# add mongodb in cconfig.json
