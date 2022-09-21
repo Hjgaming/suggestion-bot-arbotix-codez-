@@ -34,7 +34,7 @@ client.commands = new Collection();
   require(`./handler/${handler}`)(client);
 });
 
-client.login("OTY3MzEwMjQ0NDI0MzIzMTM2.GtiOiC.ilX1d8Hx8EO9qRH6DBFZOwlVOMDFRdm6cORutI").catch((e) => { console.log((e.message).red.bold) })
+client.login(process.env.token).catch((e) => { console.log((e.message).red.bold) })
 
 
 const express = require('express');
